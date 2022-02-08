@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(202, 194, 233);
+}
+.containerForm{
+    width: 200px;
+    display: none;
+    flex-direction: column;
+    margin-left: 45%;
+    margin-top: 10%;
+    border: 3px solid rgba(10, 44, 194, 0.363);
+    background-color: rgb(100, 100, 177);
+    padding: 10px;
+}
+.form-input{
+    margin-bottom: 10px;
+}
+.container{
+    text-align: center;
+}
